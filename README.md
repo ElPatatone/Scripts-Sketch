@@ -1,5 +1,3 @@
-### Test
+### Scripts Sketch
 
-Checking privileges...
-
-Another test for the commits
+This is a small collaborative project to experiment with text processing and generative art.
